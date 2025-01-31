@@ -29,13 +29,13 @@
       "correctness": {
         "noConstantMathMinMaxClamp": "error",
         "noNodejsModules": "error",
-        "noUnusedImports": "error",
+        "noUnusedImports": "off",
         "noUnusedPrivateClassMembers": "error",
         "noUnusedVariables": "error",
         "useArrayLiterals": "error"
       },
       "nursery": {
-        "useSortedClasses": "error"
+        "useSortedClasses": "off"
       },
       "style": {
         "noImplicitBoolean": "error",
@@ -61,6 +61,6 @@
     }
   },
   "files": {
-    "ignore": ["coverage/**", ".next/**"]
+    "ignore": ["coverage/**", ".next/**", "src/contract/**"]
   }
 }

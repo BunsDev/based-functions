@@ -62,3 +62,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or need help, feel free to reach out to us on [Discord](https://discord.gg/8gW3h6w5) 
 or open a [Github issue](https://github.com/coinbase/onchainkit/issues) or DMs us 
 on X at [@onchainkit](https://x.com/onchainkit), [@zizzamia](https://x.com/zizzamia), [@fkpxls](https://x.com/fkpxls).
+
+
+# Deployment Notes
+- https://docs.chain.link/chainlink-functions/supported-networks 
+
+- Router: 0xf9B8fc078197181C841c296C876945aaa425B278
+- DON: 0x66756e2d626173652d7365706f6c69612d310000000000000000000000000000
+- Subscription ID: 270
+1000000000000000000000000000000000000000000000000000000000000000
+- 
+
+# Links
+- [0xA1A6603c94746754279f11B809fC4E14aaBBbAf4](https://base-sepolia.blockscout.com/address/0xA1A6603c94746754279f11B809fC4E14aaBBbAf4)
