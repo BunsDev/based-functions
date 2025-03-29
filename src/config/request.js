@@ -10,5 +10,5 @@ if (priceResponse.error) {
 }
 
 const price = priceResponse.data.latestValue;
-
+// @ts-ignore
 return Functions.encodeString(price);
